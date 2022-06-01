@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\szamlazo\szamlazo\bin\Debug\szamlazo.exe.config
+C:\Users\admin\source\repos\szamlazo\szamlazo\bin\Debug\szamlazo.exe
+C:\Users\admin\source\repos\szamlazo\szamlazo\bin\Debug\szamlazo.pdb
+C:\Users\admin\source\repos\szamlazo\szamlazo\obj\Debug\szamlazo.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\szamlazo\szamlazo\obj\Debug\szamlazo.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\szamlazo\szamlazo\obj\Debug\szamlazo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\szamlazo\szamlazo\obj\Debug\szamlazo.exe
+C:\Users\admin\source\repos\szamlazo\szamlazo\obj\Debug\szamlazo.pdb
+D:\SULI\GyurisCsaba\szamlazo\szamlazo\bin\Debug\szamlazo.exe.config
+D:\SULI\GyurisCsaba\szamlazo\szamlazo\bin\Debug\szamlazo.exe
+D:\SULI\GyurisCsaba\szamlazo\szamlazo\bin\Debug\szamlazo.pdb
+D:\SULI\GyurisCsaba\szamlazo\szamlazo\obj\Debug\szamlazo.csproj.AssemblyReference.cache
+D:\SULI\GyurisCsaba\szamlazo\szamlazo\obj\Debug\szamlazo.csproj.CoreCompileInputs.cache
+D:\SULI\GyurisCsaba\szamlazo\szamlazo\obj\Debug\szamlazo.exe
+D:\SULI\GyurisCsaba\szamlazo\szamlazo\obj\Debug\szamlazo.pdb
